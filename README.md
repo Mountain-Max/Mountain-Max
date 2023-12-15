@@ -21,11 +21,11 @@
 
 ### Connect with me:
   <div>
-    <a href="https://t.me/max_kolbin" target="_blank" style="margin-right:10px;">
-      <img style="margin-right:20px;" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35"  alt="telegram" />
+    <a href="https://t.me/max_kolbin" target="_blank" style="margin-right:10px; display: bllock;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35"  alt="telegram" />
     </a>
     <a href="https://www.instagram.com/max_kolbin/" target="_blank">
-      <img style="margin-right:20px;" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="35" alt="instagram" />
+      <img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="35" alt="instagram" />
     </a>
     <a href="mailto:www.kolbinmaxim013@gmail.com" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="35" alt="gmail" />
