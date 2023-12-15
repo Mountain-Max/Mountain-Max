@@ -21,10 +21,10 @@
 
 ### Connect with me:
   <div>
-    <a style="margin-right: 50px;" href="https://t.me/max_kolbin" target="_blank">
+    <a href="https://t.me/max_kolbin" target="_blank" style="margin-right:10px;">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35"  alt="telegram" />
     </a>
-    <a style="margin-right:10px;" href="https://www.instagram.com/max_kolbin/" target="_blank">
+    <a href="https://www.instagram.com/max_kolbin/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="35" alt="instagram" />
     </a>
     <a href="mailto:www.kolbinmaxim013@gmail.com" target="_blank">
