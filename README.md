@@ -11,15 +11,13 @@
 - 🪐 I like to live and grow 
 
 ### Languages and tools: 
-<br />
 <img align="left" style="margin-right:10px;" alt="html" width="40px" src="./assets/html.svg">             
 <img align="left" style="margin-right:10px;" alt="css" width="40px" src="./assets/css.svg">
 <img align="left" style="margin-right:10px;" alt="sass" width="40px" src="./assets/sass.svg">
 <img align="left" style="margin-right:10px;" alt="js" width="40px" src="./assets/js.svg">
-<img align="left" style="margin-right:10px;"  alt="react" width="40px" src="./assets/react-js.png">
+<img align="left" style="margin-right:10px;" alt="react" width="40px" src="./assets/react-js.png">
 <img align="left" alt="react" width="40px" src="./assets/vs-code.svg">
 
-<br />
 <br />
 <br />
 
