@@ -21,7 +21,7 @@
 
 ### Connect with me:
   <div>
-    <a href="https://t.me/max_kolbin" target="_blank" style="margin-right:10px; display: bllock;">
+    <a href="https://t.me/max_kolbin" target="_blank" style="margin-right:10px; display: block;">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35"  alt="telegram" />
     </a>
     <a href="https://www.instagram.com/max_kolbin/" target="_blank">
