@@ -20,7 +20,7 @@
 <br />
 
 ### Connect with me:
-  <div>
+  <div style="margin-right:10px;">
     <a href="https://t.me/max_kolbin" target="_blank" style="margin-right:10px;">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35"  alt="telegram" />
     </a>
