@@ -1,4 +1,4 @@
-<img src="./assets/hello.png">
+<img src="./assets/hello (1).jpg">
 
 <br />
 
@@ -11,20 +11,16 @@
 - 🪐 I like to live and grow 
 
 ### Languages and tools: 
-<br />
-<img align="left" style="margin-right:10px;" alt="html" width="40px" src="./assets/html.svg">             
-<img align="left" style="margin-right:10px;" alt="css" width="40px" src="./assets/css.svg">
-<img align="left" style="margin-right:10px;" alt="sass" width="40px" src="./assets/sass.svg">
-<img align="left" style="margin-right:10px;" alt="js" width="40px" src="./assets/js.svg">
-<img align="left" style="margin-right:10px;"  alt="react" width="40px" src="./assets/react-js.png">
+<img align="left" style="margin-right:5px;" alt="html" width="40px" src="./assets/html.svg">             
+<img align="left" style="margin-right:5px;" alt="css" width="40px" src="./assets/css.svg">
+<img align="left" style="margin-right:5px;" alt="sass" width="40px" src="./assets/sass.svg">
+<img align="left" style="margin-right:5px;" alt="js" width="40px" src="./assets/js.svg">
+<img align="left" style="margin-right:5px;"  alt="react" width="40px" src="./assets/react-js.png">
 <img align="left" alt="react" width="40px" src="./assets/vs-code.svg">
 
-<br />
-<br />
-<br />
+***
 
 ### Connect with me:
-<br />
   <div>
     <a style="margin-right:10px;" href="https://t.me/max_kolbin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35"  alt="telegram" />
@@ -36,3 +32,6 @@
       <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="35" alt="gmail" />
     </a>
   </div>
+
+  ***
+  
